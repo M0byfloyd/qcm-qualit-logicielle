@@ -1,0 +1,3 @@
+interface AnswerInterface {
+    text: string,
+}
