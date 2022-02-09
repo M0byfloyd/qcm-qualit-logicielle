@@ -1,3 +1,6 @@
-it("That's a test!", function () {
-  expect(1 + 1).toEqual(2);
+import { questions } from './questions';
+import { randomTabItem } from './index'
+
+it("fractionCalc test", function () {
+  randomTabItem(questions);
 });
