@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f13df0a-172d-4065-82b4-e915b90ceae6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interfaces/AnswerInterface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/QuestionInterface.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mcq-creator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz-answering.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/AnswerInterface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/QuestionInterface.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +36,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="F:\cours\hetic\QL\qcm-qualit-logicielle\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager">
+    <configuration name="questionText" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/index.spec.ts" />
+      <test-names>
+        <test-name value="questionText" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.questionText" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,11 +68,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644395344703</updated>
-      <workItem from="1644395345826" duration="1193000" />
+      <workItem from="1644395345826" duration="5997000" />
+      <workItem from="1644407553427" duration="591000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1815" height="288" key="GridCell.Tab.0.bottom" timestamp="1644407506096">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="288" key="GridCell.Tab.0.bottom/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1644407506096" />
+    <state width="1815" height="288" key="GridCell.Tab.0.center" timestamp="1644407506095">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="288" key="GridCell.Tab.0.center/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1644407506095" />
+    <state width="1815" height="288" key="GridCell.Tab.0.left" timestamp="1644407506087">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="288" key="GridCell.Tab.0.left/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1644407506087" />
+    <state width="1815" height="288" key="GridCell.Tab.0.right" timestamp="1644407506096">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="288" key="GridCell.Tab.0.right/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1644407506096" />
   </component>
 </project>

@@ -1,3 +1,0 @@
-interface AnswerInterface {
-    text: string,
-}

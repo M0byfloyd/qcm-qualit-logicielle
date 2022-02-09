@@ -3,7 +3,6 @@ interface MCQ {
     poolOfQuestions: Question [];
 }
 
-
 interface Question {
     id: string;
     label: string;
